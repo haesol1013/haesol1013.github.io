@@ -1,1 +1,1 @@
-# Obsidian template for using github.io
+# haesol1013's blog
