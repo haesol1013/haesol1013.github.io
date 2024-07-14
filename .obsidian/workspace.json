@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ae6d164fa99f4f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test page.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test page.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test page.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test page.md"
+                "file": "index.md"
               }
             }
           }
@@ -171,17 +158,17 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "ae6d164fa99f4f21",
+  "active": "e85638fcd2d3f4e4",
   "lastOpenFiles": [
-    "Vault.md",
-    "docs/vault.html",
-    "docs/test-page.html",
-    "Test page.md",
-    "img/rust_logo.jpg",
-    "Tags/Untitled.md",
-    "img",
     "index.md",
     "README.md",
+    "Vault.md",
+    "Test page.md",
+    "docs/vault.html",
+    "docs/test-page.html",
+    "image/rust_logo.jpg",
+    "Tags/Untitled.md",
+    "image",
     "docs/docs.md",
     "docs/lib/styles/other-plugins.css",
     "test.md",
